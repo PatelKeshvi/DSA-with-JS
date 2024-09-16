@@ -1,1 +1,0 @@
-//8. Check if a String is Palindrome
